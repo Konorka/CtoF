@@ -1,0 +1,9 @@
+D:\Microsoft Visual Studio\Projects\CtoF\CtoF\obj\Debug\CtoF.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\Projects\CtoF\CtoF\obj\Debug\CtoF.Form1.resources
+D:\Microsoft Visual Studio\Projects\CtoF\CtoF\obj\Debug\CtoF.Properties.Resources.resources
+D:\Microsoft Visual Studio\Projects\CtoF\CtoF\obj\Debug\CtoF.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Projects\CtoF\CtoF\bin\Debug\CtoF.exe.config
+D:\Microsoft Visual Studio\Projects\CtoF\CtoF\bin\Debug\CtoF.exe
+D:\Microsoft Visual Studio\Projects\CtoF\CtoF\bin\Debug\CtoF.pdb
+D:\Microsoft Visual Studio\Projects\CtoF\CtoF\obj\Debug\CtoF.exe
+D:\Microsoft Visual Studio\Projects\CtoF\CtoF\obj\Debug\CtoF.pdb
